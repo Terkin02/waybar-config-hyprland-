@@ -1,6 +1,7 @@
 # waybar-config-hyprland-
 
 Руководство! (Guidance!)
+
 Чтобы применить данный waybar, вам нужно:
 1) Скачайте файлы  config.jsonc, modules.json и style.css
 2) Удалить вашу папку waybar, а затем создайте новую папку waybar в папке .config. Если у вас этой папки нет то также создайте папку waybar в папке .config
@@ -13,6 +14,7 @@ ________________________________________________________________________________
 English.
 
 Guidance!
+
 To apply this waybar you need:
 1) Download config.jsonc, modules.json and style.css
 2) Delete your waybar folder and then create a new waybar folder in the .config folder. If you don't have this folder, then also create a waybar folder in the .config folder
