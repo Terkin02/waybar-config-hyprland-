@@ -1,3 +1,4 @@
+![20250521_18h55m07s_grim](https://github.com/user-attachments/assets/d694820d-cac8-4e6d-af98-22de41c40d07)
 # waybar-config-hyprland-
 
 Руководство! (Guidance!)
