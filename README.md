@@ -1,3 +1,4 @@
+![Uploading 20250702_16h18m44s_grim.png…]()
 
 # waybar-config-hyprland-
 
